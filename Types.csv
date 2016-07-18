@@ -1,4 +1,4 @@
-"ID","Name","ChineseName","OffenceSuperEffect","OffenceNotVeryEffect","DefenceNotVeryEffect","DefenceSuperEffect"
+﻿"ID","Name","ChineseName","OffenceSuperEffect","OffenceNotVeryEffect","DefenceNotVeryEffect","DefenceSuperEffect"
 "1","Bug","虫","2,3,12","9,10,11,13,15,16,17","2,4,11","13,14,15"
 "2","Grass","草","4,14,18","1,2,5,10,13,15,16","2,4,7,18","1,6,10,13,15"
 "3","Dark","恶","12,17","3,9,11","3,17","1,9,11"
